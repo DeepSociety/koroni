@@ -1,9 +1,9 @@
 # Koroni
 
 <p align="center">
-<a href="#"><img title="Koroni" src="https://emailspoofbyharris.000webhostapp.com/pro/koroni.jpeg"></a>
-
 <a href="#"><img title="Koroni" src="https://emailspoofbyharris.000webhostapp.com/pro/koroni2.jpeg"></a>
+
+<a href="#"><img title="Koroni" src="https://emailspoofbyharris.000webhostapp.com/pro/koroni.jpeg"></a>
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 <div align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-2.5-green.svg?style=flat-square"></a>
 <a href="https://github.com/DeepSociety/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeepSociety?color=blue&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/koroni/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/koroni/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HarrisSec/AIOPhish?color=red&style=flat-square"></a>
-<a href="https://github.com/HarrisSec/koroni/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HarrisSec/AIOPhish?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/HarrisSec/koroni/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HarrisSec/koroni?color=red&style=flat-square"></a>
+<a href="https://github.com/HarrisSec/koroni/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HarrisSec/koroni?color=red&style=flat-square"></a>
+<a href="https://github.com/HarrisSec/koroni/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HarrisSec/koroni?label=Watchers&color=blue&style=flat-square"></a>
 </div>
 
-#### Geolocalizar a una persona por medio de link:3 (ubicación exacta)
+#### Localizar a una persona por medio de link:3 (ubicación exacta)
 
 ### Información Obtenida:
 
@@ -42,7 +42,7 @@
 
 * `git clone https://github.com/DeepSociety/koroni`
 * `cd koroni`
-* `chmod +x koroni
+* `chmod +x koroni`
 * `./koroni`
 
 # Referencia:
