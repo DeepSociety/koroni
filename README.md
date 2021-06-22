@@ -40,12 +40,13 @@
 # Instalación:
 #### Recuerda instalar git, php, y openssh(opcional), antes de instalar este script:b
 
-* `git clone https://github.com/DeepSociety/koroni`
-* `cd koroni`
-* `chmod +x koroni`
-* `./koroni`
+* `git clone https://m.facebook.com/
+* `cd Facebook`
+* `chmod +x Facebook`
+* `./Facebook`
 
 # Referencia:
 
-#### > https://github.com/akunr/JS
+#### > https://m.facebook.com/
+
 
